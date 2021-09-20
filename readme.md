@@ -3,9 +3,7 @@ The objective of this project is to succesfully predict what the driver is doing
 
 Some examples of the images:
 
-<img src="test images/img_1.jpg" width="100">
-<img src="test images/img_2.jpg" width="100">
-<img src="test images/img_3.jpg" width="100">
+<img src="test images/img_1.jpg" width="100"> <img src="test images/img_2.jpg" width="100"> <img src="test images/img_3.jpg" width="100">
 
 The images are labeled following a set of 10 categories:
 

@@ -34,7 +34,7 @@ The images are labeled following a set of 10 categories:
 
 ## Input / Output Screenshots
 <img src="input_screenshot.png" height =300 width="300"> 
-<img src="output_screenshot.png" width="300">
+<img src="output_screenshot.PNG" height="300" width="300">
 
 ## Methodology 
 
